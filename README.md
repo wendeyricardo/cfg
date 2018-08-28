@@ -1,1 +1,1 @@
-# cfg
+# cfg cs:go
